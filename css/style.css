@@ -102,7 +102,7 @@ h1, h2, h3, h4, h5, h6 {
 .flex_container__block {
   width: 130px;
   height: 130px;
-  background: #B25E5D;
+  background: #ab5db2;
   text-align: center;	
 }
 .flex_container__block:nth-child(1) {
